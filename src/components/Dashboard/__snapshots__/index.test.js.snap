@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Teste de componente Dashboard 1`] = `
+exports[`Teste de componente Dashboard Deve renderizar filhos 1`] = `
 <div
   className="dashboard dashboard__undefined"
 >
