@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de componente Dashboard 1`] = `
+<div
+  className="dashboard dashboard__undefined"
+>
+  <h1>
+    Hello World
+  </h1>
+</div>
+`;
